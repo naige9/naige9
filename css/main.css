@@ -21,6 +21,11 @@ h3 { color: rgba(220,220,0,0.6); }
 h4 { color: rgba(220,220,0,0.5); }
 h5 { color: rgba(220,220,0,0.4); }
 h6 { color: rgba(220,220,0,0.3); }
+hx {
+    color: rgba(220,220,0,0.8);
+    font-size: 12px;
+    font-family: monospace;
+}
 footer {
     color: rgba(220,220,0,0.8);
     font-weight: bold;
