@@ -10,9 +10,8 @@ It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's 
 
 [Bootstrap](http://getbootstrap.com/) was added to turn responsible. Thanks, [@magnunleno](https://github.com/magnunleno).
 
-<fontsize 5pt>
-                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                          .,cloool,.                                                                                                                                                                            
+<banner>
+                                                                                                                                                                                                                              .,cloool,.                                                                                                                                                                            
                                                                                                                                                                                                                         .:k0kolldO0k;                                                                                                                                                                           
                                                                                                                                                                                                                        .dKOc.    .o00l.                                                                                                                                                                         
                                                                                                                                                                                                                       .dKk,        :kKd'                                                                                                                                                                        
@@ -299,4 +298,4 @@ It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's 
                                                                                                                                                                                                                                                                                                                                                                                                                 
                                                                                                                                                                                                                                                                                                                                                                                                                 
 
-</fontsize>
+</banner>
