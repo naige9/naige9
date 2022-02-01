@@ -1,5 +1,6 @@
 ---
 layout: content
+title: About me
 ---
 
 ### About
